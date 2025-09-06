@@ -8,3 +8,4 @@ download.file(url_rdata, destfile = "datalab1.RData", mode = "wb")
 download.file(url_csv,   destfile = "survey.csv",     mode = "wb")
 download.file(url_setup,   destfile = "setuplab1.R",    mode = "wb")
 
+
